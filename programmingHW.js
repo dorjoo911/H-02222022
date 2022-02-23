@@ -93,7 +93,7 @@ console.log("expect 2500: ", calcDownpayment(50000));
 console.log("expect 7500: ", calcDownpayment(100000));
 console.log("expect 25000: ", calcDownpayment(250000));
 
-/*
+/* #4
 Write functions sumDigits and multDigits that take an integer parameter and return the sum or
 product of the digits in the number. Use the / and % operators to find the digits.
 Input       sumDigits Output      multDigits Output
@@ -125,7 +125,7 @@ console.log(multDigits(1234));
 console.log(multDigits(102));
 console.log(multDigits(8));
 
-/*
+/* #5
 Write a function, convertFahrenheit, that takes an input parameter with a temperature in Fahrenheit
 and returns the temperature in Celsius.
 */
@@ -135,7 +135,7 @@ console.log("expect -17.7778: ", convertFahrenheit(0));
 console.log("expect 100: ", convertFahrenheit(212));
 console.log("expect 37.7778: ", convertFahrenheit(100));
 
-/*
+/* #6
 Write a function that takes x and y co-ordinates of two points as inputs and returns the distance
 between these two points based on the formula, d = √( x 2 − x 1 ) 2 + ( y 2 − y 1 ) 2
 */
